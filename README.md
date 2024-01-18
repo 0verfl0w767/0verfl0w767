@@ -30,7 +30,7 @@
 
 현재 학생들의 편의를 위한 [SYU KR](https://www.syu.kr) 서비스를 개발 및 운영중입니다.
 
-# Project
+<!-- # Project
 
 | 연도 | 프로젝트 |
 | --- | --- |
@@ -65,7 +65,7 @@
 | 2023 - 2학기 | 객체지향 프로그래밍 II 기말 프로젝트 클라우드 배포
 | 2023 - 2학기 | 외주 - 미래투자 커뮤니티 (10000mr.com) 서비스
 | 2023 - 2학기 | 오버워치 OVERWATCH - 프로필 카드
-| 2023 - 2학기 | 볼러 앱
+| 2023 - 2학기 | 볼러 앱 -->
 
 # VISIT
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F0verfl0w767&count_bg=%233D4BC8&title_bg=%23747474&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
