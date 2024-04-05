@@ -18,6 +18,8 @@
   <img src="http://cse.syu.kr/api/v1/card?username=i_hate_beans">
 </div> -->
 
+# [Portfolio](https://www.syu.kr/introduce)
+
 # Hello, World!
 
 삼육대학교 컴퓨터공학부 소프트웨어전공으로 재학중이며
