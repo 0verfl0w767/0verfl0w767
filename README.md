@@ -24,6 +24,10 @@
 
 웹, 앱, 소프트웨어 개발에 관심이 많은 학생입니다.
 
+# Game
+
+![](https://ow.profilecard.kr/player/팝풉풉팝풉-3608)
+
 # Ing
 
 삼육대학교 학생들의 편의를 위한 [SYU KR](https://www.syu.kr) 서비스를 개발 및 운영중입니다.
