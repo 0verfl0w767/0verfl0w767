@@ -14,6 +14,8 @@
  */
 ```
 
+![](https://boj.profilecard.kr/info?username=i_hate_beans)
+
 # [Portfolio](https://www.syu.kr/introduce)
 
 <!--# Hello, World!
