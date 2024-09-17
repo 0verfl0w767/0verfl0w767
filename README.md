@@ -14,19 +14,15 @@
  */
 ```
 
-<!-- <div align=center>
-  <img src="http://cse.syu.kr/api/v1/card?username=i_hate_beans">
-</div> -->
-
 # [Portfolio](https://www.syu.kr/introduce)
 
-# Hello, World!
+<!--# Hello, World!
 
 웹, 앱, 소프트웨어 개발에 관심이 많은 학생입니다.
 
 # Ing
 
-삼육대학교 학생들의 편의를 위한 [SYU KR](https://www.syu.kr) 서비스를 개발 및 운영중입니다.
+삼육대학교 학생들의 편의를 위한 [SYU KR](https://www.syu.kr) 서비스를 개발 및 운영중입니다.-->
 
 <!-- # Project
 
