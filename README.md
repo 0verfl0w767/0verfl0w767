@@ -21,7 +21,7 @@
 
 Develop. 2017 ~
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F0verfl0w767%2F0verfl0w767&label=0vfw&icon=github&color=%236ea8fe)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F0verfl0w767%2F0verfl0w767&label=0vfw&icon=github&color=%230d6efd)
 
 <!--# Hello, World!
 
