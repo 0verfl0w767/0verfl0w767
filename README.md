@@ -17,7 +17,7 @@
 ![](https://boj.profilecard.kr/info?username=i_hate_beans)
 -->
 
-# [Portfolio](https://www.syu.kr/introduce)
+# [Introduce](https://www.syu.kr/introduce)
 
 ![1762913683](https://github.com/user-attachments/assets/02ee060f-1b25-423f-b76a-ce1f82e45358)
 
