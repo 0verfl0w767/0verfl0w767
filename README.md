@@ -23,6 +23,49 @@
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F0verfl0w767%2F0verfl0w767&label=0vfw&icon=github&color=%230d6efd)
 
+# SYU KR Project (2023 ~)
+
+필요에서 출발해, 서비스로 완성 — 그리고 도전
+
+삼육대학교 학생들의 편의를 위한 [SYU KR](https://www.syu.kr) 서비스를 개발 및 운영중입니다.
+
+### > Main Services
+
+↳ 누적 사용자 50,000명 달성
+
+- **에브리타임 삼육대학교 정규 시간표 유지 · 관리 및 업데이트**  
+  (2023년 1학기, 2023년 2학기, 2024년 1학기, 2024년 2학기, 2026년 1학기)
+- 삼육대학교 시간표 마법사
+- 삼육대학교 공통(교양) 목록 조회
+- 삼육대학교 모의 수강신청
+- 삼육대학교 수강신청 장바구니 이전 경쟁률 및 현황
+- 삼육대학교 실시간 셔틀버스 위치 및 도착 시간표
+
+---
+
+### > Crawling & Data Analysis
+
+- 강의계획서 · 수강편람 데이터 크롤링 및 데이터 변환
+- 에브리타임 강의평가, 강의평점 데이터 크롤링 (컴퓨터공학부, 교양)
+- 수강신청 및 장바구니 데이터 수집 및 데이터 변환
+- 실시간 셔틀버스 위치 수집, 추적 및 동선 분석 (거리, 위치 계산)
+
+---
+
+### > Backend & Infrastructure
+
+- **NGINX 기반 멀티 서비스 통합 운영**
+  - TLS 1.3 기반 HTTPS 및 HTTP/3(QUIC) 적용
+  - Reverse Proxy 구조로 다수의 웹 · API 서비스 라우팅
+- **Redis 기반 API 분리 및 캐싱 아키텍처**
+  - GitHub Contents 호출 캐싱을 통해 조회 트래픽 감소 및 응답 속도 개선
+- **PM2 기반 Node.js 서비스 프로세스 관리**
+  - 무중단 재시작 및 장애 복구 자동화
+  - 다중 인스턴스 운영을 통한 안정성 확보
+- **메일 서버 구축 및 운영**
+  - Postfix(SMTP) · Dovecot(IMAP) · Roundcube(UI) · Nginx 기반 메일 서버 구축
+  - NestJS + JWT 계정 시스템 및 PM2 · CI/CD 환경으로 통합 운영
+
 <!--# Hello, World!
 
 웹, 앱, 소프트웨어 개발에 관심이 많은 학생입니다.
