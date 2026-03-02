@@ -17,11 +17,11 @@
 ![](https://boj.profilecard.kr/info?username=i_hate_beans)
 -->
 
-# [Introduce Site](https://www.syu.kr/i.n.t.r.o.d.u.c.e) ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F0verfl0w767%2F0verfl0w767&label=0vfw&icon=github&color=%230d6efd)
+# [SangYun.im](https://sangyun.im) ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2F0verfl0w767%2F0verfl0w767&label=0vfw&icon=github&color=%230d6efd)
 
-<!--![1762913683](https://github.com/user-attachments/assets/02ee060f-1b25-423f-b76a-ce1f82e45358)-->
+![](https://github.com/user-attachments/assets/02ee060f-1b25-423f-b76a-ce1f82e45358)
 
-# SYU KR Project (2023 ~)
+<!--# SYU KR Project (2023 ~)
 
 필요에서 출발해, 서비스로 완성 — 그리고 도전
 
@@ -62,7 +62,7 @@
   - 다중 인스턴스 운영을 통한 안정성 확보
 - **메일 서버 구축 및 운영**
   - Postfix(SMTP) · Dovecot(IMAP) · Roundcube(UI) · Nginx 기반 메일 서버 구축
-  - NestJS + JWT 계정 시스템 및 PM2 · CI/CD 환경으로 통합 운영
+  - NestJS + JWT 계정 시스템 및 PM2 · CI/CD 환경으로 통합 운영 -->
 
 <!--# Hello, World!
 
