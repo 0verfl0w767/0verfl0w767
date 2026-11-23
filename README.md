@@ -21,7 +21,7 @@
 
 <div align="center">
   <a href="https://velog.io/@0verfl0w767">
-    <img src="https://velo-card.profilecard.workers.dev/api?name=0verfl0w767&layout=grid&count=2&scale=2&columns=2&thumb_ratio=wide&hide_border=true" alt="0verfl0w767 velog" />
+    <img src="https://velo-card.profilecard.workers.dev/api?name=0verfl0w767&layout=grid&count=2&scale=2&columns=2&thumb_ratio=wide&theme=notion" alt="0verfl0w767 velog" />
   </a>
 </div>
 
